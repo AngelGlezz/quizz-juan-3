@@ -1,7 +1,7 @@
 @font-face
 {
-   font-family: "Duke-Fill";
-   src: url(../fonts/Duke-Fill.otf) format("opentype");
+   font-family: "BrandonGrotesque-Black";
+   src: url(../fonts/BrandonGrotesque-Black.otf) format("opentype");
 }
 
 .indepth_cover_back_body, #indepth_page1{
@@ -442,6 +442,16 @@
 
 .bien, .mal {
 	opacity: 1!important;
+	background-repeat: no-repeat;
+	background-position: right;
+}
+
+.indepth_respuesta_item.bien{
+	background-image: url(../images/Bien.png);
+}
+
+.indepth_respuesta_item.mal{
+	background-image: url(../images/Mal.png);
 }
 
 .indepth_pregunta_img{
@@ -519,6 +529,15 @@
 	cursor: pointer;
 	flex: 0 0 calc(33.3% - 1rem);
 	background-position: center;
+}
+
+#txt-result {
+	font-size: 40px;
+	color: #fff;
+	text-align: center;
+	font-family: "BrandonGrotesque-Black", sans-serif;
+	letter-spacing: 2px;
+	margin-bottom:  20px;
 }
 
 #indepth_twittear:hover, #indepth_facebook:hover{

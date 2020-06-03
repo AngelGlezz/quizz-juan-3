@@ -414,6 +414,8 @@ function finish_test(){
 		totalfb = "mrchip";
 	}
 
+	$("#txt-result").text("Tuviste " + aciertos + " aciertos");
+
 	$("#indepth_resultados").animate({
 	  	"left": 0
   	},2000, function(){

@@ -942,6 +942,10 @@
 	.indepth_result_text {
     	font-size: 12px;
 	}
+
+	#txt-result {
+		font-size: 25px;
+	}
 }
 
 @media screen and (max-height: 750px) {

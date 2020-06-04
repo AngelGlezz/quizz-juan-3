@@ -23,19 +23,19 @@ $("#indepth_boton_empezar").on("click",function(){
 				      "pregunta": "<img src='../images/preguntas/1.png'>",
 				      "respuestas": [
 				        {
-				          "respuesta": "<img src='images/opciones/1-a.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/1-a.png'>",
 				          "tipo": "true"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/1-b.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/1-b.png'>",
 				          "tipo": "false"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/1-c.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/1-c.png'>",
 				          "tipo": "false"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/1-d.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/1-d.png'>",
 				          "tipo": "false"
 				        }
 				      ]
@@ -44,19 +44,19 @@ $("#indepth_boton_empezar").on("click",function(){
 				      "pregunta": "<img src='../images/preguntas/2.png'>",
 				      "respuestas": [
 				        {
-				          "respuesta": "<img src='images/opciones/2-a.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/2-a.png'>",
 				          "tipo": "true"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/2-b.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/2-b.png'>",
 				          "tipo": "false"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/2-c.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/2-c.png'>",
 				          "tipo": "false"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/2-d.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/2-d.png'>",
 				          "tipo": "false"
 				        }
 				      ]
@@ -65,19 +65,19 @@ $("#indepth_boton_empezar").on("click",function(){
 				      "pregunta": "<img src='../images/preguntas/3.png'>",
 				      "respuestas": [
 				        {
-				          "respuesta": "<img src='images/opciones/3-a.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/3-a.png'>",
 				          "tipo": "true"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/3-b.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/3-b.png'>",
 				          "tipo": "false"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/3-c.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/3-c.png'>",
 				          "tipo": "false"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/3-d.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/3-d.png'>",
 				          "tipo": "false"
 				        }
 				      ]
@@ -86,19 +86,19 @@ $("#indepth_boton_empezar").on("click",function(){
 				      "pregunta": "<img src='../images/preguntas/4.png'>",
 				      "respuestas": [
 				        {
-				          "respuesta": "<img src='images/opciones/4-a.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/4-a.png'>",
 				          "tipo": "true"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/4-b.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/4-b.png'>",
 				          "tipo": "false"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/4-c.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/4-c.png'>",
 				          "tipo": "false"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/4-d.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/4-d.png'>",
 				          "tipo": "false"
 				        }
 				      ]
@@ -107,19 +107,19 @@ $("#indepth_boton_empezar").on("click",function(){
 				      "pregunta": "<img src='../images/preguntas/5.png'>",
 				      "respuestas": [
 				        {
-				          "respuesta": "<img src='images/opciones/5-a.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/5-a.png'>",
 				          "tipo": "true"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/5-b.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/5-b.png'>",
 				          "tipo": "false"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/5-c.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/5-c.png'>",
 				          "tipo": "false"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/5-d.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/5-d.png'>",
 				          "tipo": "false"
 				        }
 				      ]
@@ -128,19 +128,19 @@ $("#indepth_boton_empezar").on("click",function(){
 				      "pregunta": "<img src='../images/preguntas/6.png'>",
 				      "respuestas": [
 				        {
-				          "respuesta": "<img src='images/opciones/6-a.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/6-a.png'>",
 				          "tipo": "true"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/6-b.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/6-b.png'>",
 				          "tipo": "false"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/6-c.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/6-c.png'>",
 				          "tipo": "false"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/6-d.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/6-d.png'>",
 				          "tipo": "false"
 				        }
 				      ]
@@ -149,19 +149,19 @@ $("#indepth_boton_empezar").on("click",function(){
 				      "pregunta": "<img src='../images/preguntas/7.png'>",
 				      "respuestas": [
 				        {
-				          "respuesta": "<img src='images/opciones/7-a.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/7-a.png'>",
 				          "tipo": "true"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/7-b.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/7-b.png'>",
 				          "tipo": "false"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/7-c.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/7-c.png'>",
 				          "tipo": "false"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/7-d.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/7-d.png'>",
 				          "tipo": "false"
 				        }
 				      ]
@@ -170,19 +170,19 @@ $("#indepth_boton_empezar").on("click",function(){
 				      "pregunta": "<img src='../images/preguntas/8.png'>",
 				      "respuestas": [
 				        {
-				          "respuesta": "<img src='images/opciones/8-a.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/8-a.png'>",
 				          "tipo": "false"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/8-b.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/8-b.png'>",
 				          "tipo": "true"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/8-c.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/8-c.png'>",
 				          "tipo": "false"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/8-d.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/8-d.png'>",
 				          "tipo": "false"
 				        }
 				      ]
@@ -191,19 +191,19 @@ $("#indepth_boton_empezar").on("click",function(){
 				      "pregunta": "<img src='../images/preguntas/9.png'>",
 				      "respuestas": [
 				        {
-				          "respuesta": "<img src='images/opciones/9-a.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/9-a.png'>",
 				          "tipo": "false"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/9-b.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/9-b.png'>",
 				          "tipo": "true"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/9-c.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/9-c.png'>",
 				          "tipo": "false"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/9-d.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/9-d.png'>",
 				          "tipo": "false"
 				        }
 				      ]
@@ -212,19 +212,19 @@ $("#indepth_boton_empezar").on("click",function(){
 				      "pregunta": "<img src='../images/preguntas/10.png'>",
 				      "respuestas": [
 				        {
-				          "respuesta": "<img src='images/opciones/10-a.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/10-a.png'>",
 				          "tipo": "false"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/10-b.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/10-b.png'>",
+				          "tipo": "false"
+				        },
+				        {
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/10-c.png'>",
 				          "tipo": "true"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/10-c.png'>",
-				          "tipo": "false"
-				        },
-				        {
-				          "respuesta": "<img src='images/opciones/10-d.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/10-d.png'>",
 				          "tipo": "false"
 				        }
 				      ]
@@ -233,19 +233,19 @@ $("#indepth_boton_empezar").on("click",function(){
 				      "pregunta": "<img src='../images/preguntas/11.png'>",
 				      "respuestas": [
 				        {
-				          "respuesta": "<img src='images/opciones/11-a.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/11-a.png'>",
 				          "tipo": "false"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/11-b.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/11-b.png'>",
 				          "tipo": "false"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/11-c.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/11-c.png'>",
 				          "tipo": "false"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/11-d.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/11-d.png'>",
 				          "tipo": "true"
 				        }
 				      ]
@@ -254,19 +254,19 @@ $("#indepth_boton_empezar").on("click",function(){
 				      "pregunta": "<img src='../images/preguntas/12.png'>",
 				      "respuestas": [
 				        {
-				          "respuesta": "<img src='images/opciones/12-a.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/12-a.png'>",
 				          "tipo": "false"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/12-b.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/12-b.png'>",
 				          "tipo": "true"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/12-c.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/12-c.png'>",
 				          "tipo": "false"
 				        },
 				        {
-				          "respuesta": "<img src='images/opciones/12-d.png'>",
+				          "respuesta": "<img src='"+urlIndepth+"images/opciones/12-d.png'>",
 				          "tipo": "false"
 				        }
 				      ]

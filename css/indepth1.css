@@ -661,9 +661,9 @@
 }
 
 /** ocultar header juanfutbol **/
-#top-bar-wrapper, #nav-bar-stats {
+/*#top-bar-wrapper, #nav-bar-stats {
 	display: none;
-}
+}*/
 
 @media screen and (min-width: 2341px) {
 	#indepth_footer .indepth_text{
